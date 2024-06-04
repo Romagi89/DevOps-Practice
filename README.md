@@ -1,1 +1,1 @@
-# DevOps-Practice
+Simple Hello World Java Application
