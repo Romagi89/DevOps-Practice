@@ -3,7 +3,7 @@
     <h1>New user Register for DevOps Learning in June 2024</h1>
     <p>Hello Please fill in this form to create your account.</p>
     <hr>
-     Hello DevOps Team!!
+     Hello DevOps Team MARIE!!
     <label for="Name"><b>Please enter your Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
